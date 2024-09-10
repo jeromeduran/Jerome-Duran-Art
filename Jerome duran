@@ -1,0 +1,10 @@
+import pyfiglet
+
+text=pyfiglet.print_figlet(text="JEROME", colors='RED', font="Alpha")
+
+text=pyfiglet.print_figlet(text="CRUZ" ,colors='BLUE', font="Alpha")
+
+text=pyfiglet.print_figlet(text="DURAN" ,colors='GREEN' , font="Alpha")
+
+print(text)
+
